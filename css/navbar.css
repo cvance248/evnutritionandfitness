@@ -50,7 +50,7 @@ p {
 /*----NAVBAR STYLING----*/
 
 .navbar {
-  background-color: #fe413a !important;
+  background-color: #fe8982 !important;
   border-bottom: none;
   width: 100%;
   height: auto;
@@ -139,7 +139,7 @@ p {
 
 footer {
   padding-bottom: 0 !important;
-  background-color: #527183;
+  background-color: #47d6bf;
 }
 
 #footer {
@@ -150,7 +150,7 @@ footer {
 #footer a {
   color: #ffffff;
   font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   letter-spacing: 1px;
   padding-right: 40px;
   padding-left: 40px;
@@ -183,9 +183,9 @@ footer {
 }
 
 .copyright {
-  color: #d1d1d1 !important;
+  color: #ffffff !important;
   padding-top: 20px;
-  font-size: 11px;
+  font-size: 14px;
 }
 
 /* Smartphones (portrait and landscape) ----------- */

@@ -151,11 +151,12 @@
 
 .testimonials p {
   font-family: "Montserrat", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
+  font-weight: 800;
 }
 
 .testimonials {
-  background-image: url(../images/testimonial-background-img.jpg);
+  background-image: url(../images/newtestimonybackground.jpg);
   height: auto;
   background-repeat: no-repeat;
   background-size: cover;
@@ -305,6 +306,10 @@ hr {
 @media only screen and (max-width: 480px) {
   .top-background {
     height: 250px;
+  }
+
+  .accounting-intro {
+    padding-top: 200px;
   }
 
   .about-banner {
