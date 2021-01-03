@@ -84,10 +84,13 @@ p {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   color: #ffffff;
-  background-color: #537184;
   border: none;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.nav li:hover {
+  background-colora: #537184;
 }
 
 .navbar .navbar-nav {
