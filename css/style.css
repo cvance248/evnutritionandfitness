@@ -352,6 +352,11 @@ hr {
     font-size: 35px;
   }
 
+  .container img {
+    height: 250px;
+    width: 360px;
+  }
+
   .resources p {
     font-size: 12px;
   }
